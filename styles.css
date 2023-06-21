@@ -1,0 +1,23 @@
+h3 {
+  width: 20%;
+  padding: 10px;
+  margin-left: 160px;
+  background-color: rebeccapurple;
+ border-radius: 10px;
+ cursor: pointer;
+ 
+
+}
+
+body {
+  justify-content: center;
+  align-items: center;
+  text-align: center;
+  background-color: aqua;
+}
+
+h1 {
+  border: 3px solid blue;
+  color: red;
+}
+
